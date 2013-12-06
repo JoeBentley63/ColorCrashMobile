@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Bar.png</Source>
+      <Name>Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Bar.xnb</Output>
+      <Time>2013-07-18T17:28:45.9799089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BarPanel.png</Source>
+      <Name>BarPanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\BarPanel.xnb</Output>
+      <Time>2013-07-18T17:28:45.9799089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Block.png</Source>
+      <Name>Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Block.xnb</Output>
+      <Time>2013-07-18T17:28:45.9799089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bomb.png</Source>
+      <Name>Bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Bomb.xnb</Output>
+      <Time>2013-07-18T17:28:45.9799089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button.png</Source>
+      <Name>Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Button.xnb</Output>
+      <Time>2013-07-18T17:28:45.9955089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Capsule.png</Source>
+      <Name>Capsule</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Capsule.xnb</Output>
+      <Time>2013-07-18T17:28:45.9955089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ClearAll.png</Source>
+      <Name>ClearAll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\ClearAll.xnb</Output>
+      <Time>2013-07-18T17:28:45.9955089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\cursor.xnb</Output>
+      <Time>2013-07-18T17:28:45.9955089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye.png</Source>
+      <Name>Eye</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Eye.xnb</Output>
+      <Time>2013-07-18T17:28:45.9955089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Frame.png</Source>
+      <Name>Frame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Frame.xnb</Output>
+      <Time>2013-07-18T17:49:53.5734969+01:00</Time>
+    </Item>
+    <Item>
+      <Source>happyEye.png</Source>
+      <Name>happyEye</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\happyEye.xnb</Output>
+      <Time>2013-07-18T17:28:46.0111089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HappyMouth.png</Source>
+      <Name>HappyMouth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\HappyMouth.xnb</Output>
+      <Time>2013-07-18T17:28:46.0111089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HeavyBlock.png</Source>
+      <Name>HeavyBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\HeavyBlock.xnb</Output>
+      <Time>2013-07-18T17:28:46.0111089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>normalMouth.png</Source>
+      <Name>normalMouth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\normalMouth.xnb</Output>
+      <Time>2013-07-18T17:28:46.0111089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>pauseMenu.png</Source>
+      <Name>pauseMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\pauseMenu.xnb</Output>
+      <Time>2013-07-18T17:28:46.026709+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PuzzleBackground.png</Source>
+      <Name>PuzzleBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\PuzzleBackground.xnb</Output>
+      <Time>2013-07-18T17:28:46.026709+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Scenery.png</Source>
+      <Name>Scenery</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Scenery.xnb</Output>
+      <Time>2013-07-18T19:43:07.654496+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ScorePanel.png</Source>
+      <Name>ScorePanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\ScorePanel.xnb</Output>
+      <Time>2013-07-18T17:28:46.042309+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SmallButton.png</Source>
+      <Name>SmallButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\SmallButton.xnb</Output>
+      <Time>2013-07-18T17:28:46.057909+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Smile.png</Source>
+      <Name>Smile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Smile.xnb</Output>
+      <Time>2013-07-18T17:28:46.057909+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash.png</Source>
+      <Name>Splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Splash.xnb</Output>
+      <Time>2013-07-18T19:49:07.6865291+01:00</Time>
+    </Item>
+    <Item>
+      <Source>testFrame.png</Source>
+      <Name>testFrame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\testFrame.xnb</Output>
+      <Time>2013-07-18T17:28:46.057909+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Title.png</Source>
+      <Name>Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Title.xnb</Output>
+      <Time>2013-07-18T17:28:46.057909+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TutorialPage1Colours.png</Source>
+      <Name>TutorialPage1Colours</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\TutorialPage1Colours.xnb</Output>
+      <Time>2013-07-18T17:28:46.057909+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TutorialPage2Colours.png</Source>
+      <Name>TutorialPage2Colours</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\TutorialPage2Colours.xnb</Output>
+      <Time>2013-07-18T17:28:45.9019087+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HIGHSCORES.xml</Source>
+      <Name>HIGHSCORES</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\HIGHSCORES.xnb</Output>
+      <Time>2013-07-18T17:28:46.0111089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Clear.wav</Source>
+      <Name>Sounds\Clear</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Sounds\Clear.xnb</Output>
+      <Time>2013-07-18T17:28:45.9175088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Loop1.wav</Source>
+      <Name>Sounds\Loop1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Sounds\Loop1.xnb</Output>
+      <Time>2013-07-18T17:28:45.9175088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Loop2.wav</Source>
+      <Name>Sounds\Loop2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Sounds\Loop2.xnb</Output>
+      <Time>2013-07-18T17:28:45.9331088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Loop3.wav</Source>
+      <Name>Sounds\Loop3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Sounds\Loop3.xnb</Output>
+      <Time>2013-07-18T17:28:45.9487088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Loop4.wav</Source>
+      <Name>Sounds\Loop4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Sounds\Loop4.xnb</Output>
+      <Time>2013-07-18T17:28:45.9487088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MenuMusic.wav</Source>
+      <Name>Sounds\MenuMusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Sounds\MenuMusic.xnb</Output>
+      <Time>2013-07-18T17:28:45.9643088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MouseOver.wav</Source>
+      <Name>Sounds\MouseOver</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Sounds\MouseOver.xnb</Output>
+      <Time>2013-07-18T17:28:45.9643088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Win.wav</Source>
+      <Name>Sounds\Win</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Sounds\Win.xnb</Output>
+      <Time>2013-07-18T17:28:45.9799089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\zap1.wav</Source>
+      <Name>Sounds\zap1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Sounds\zap1.xnb</Output>
+      <Time>2013-07-18T17:28:45.9799089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\Font.xnb</Output>
+      <Time>2013-07-18T17:28:45.9955089+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{17C87B8C-8D20-4B0D-A5C0-E3A9D8BDA69A}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrashContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\joe\documents\visual studio 2010\Projects\ColorCrash\ColorCrash\ColorCrash\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-16T10:04:12.9702554+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

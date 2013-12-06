@@ -1,0 +1,6 @@
+<MarketplaceDetails>
+  <SmallAppTile>SmallIcon99x99.png</SmallAppTile>
+  <LargeAppTile>BigIcon173x173.png</LargeAppTile>
+  <PCAppTile>Biggest200x200.png</PCAppTile>
+  <ScreenShots>ScreenShot1.png;ScreenShot2.png;ScreenShot3.png;ScreenShot4.png;;;;;</ScreenShots>
+</MarketplaceDetails>
